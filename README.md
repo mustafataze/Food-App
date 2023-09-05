@@ -1,9 +1,6 @@
 Uygulama Görüntüleri    
 
-![image](https://github.com/mustafataze/Food-App/assets/77008362/120ce8e9-47e1-4811-a173-8e70621f52d7 ){
-  width:150px;
-  height:100px;
-}
+![image](https://github.com/mustafataze/Food-App/assets/77008362/120ce8e9-47e1-4811-a173-8e70621f52d7 )
 
 ![image](https://github.com/mustafataze/Food-App/assets/77008362/2c45dab2-e4c9-42cf-ab1f-bef7fb6b5a1b)
 
